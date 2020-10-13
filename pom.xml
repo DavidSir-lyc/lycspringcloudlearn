@@ -23,7 +23,7 @@
         <starterEureka.version>1.4.7.RELEASE</starterEureka.version>
         <starterEureka.version>1.4.7.RELEASE</starterEureka.version>
         <starterFeign.version>1.4.7.RELEASE</starterFeign.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <lombok.version>1.16.10</lombok.version>
         <log4j.version>1.2.17</log4j.version>
         <logback.version>1.2.3</logback.version>
