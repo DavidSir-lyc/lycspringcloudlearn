@@ -19,7 +19,7 @@
         <java.version>13</java.version>
         <spring-cloud.version>Hoxton.SR6</spring-cloud.version>
         <spring-boot.version>2.3.2.RELEASE</spring-boot.version>
-        <eurekaServer.version>2.2.3.RELEASE</eurekaServer.version>
+        <eurekaServer.version>2.5.12</eurekaServer.version>
         <starterEureka.version>1.4.7.RELEASE</starterEureka.version>
         <starterEureka.version>1.4.7.RELEASE</starterEureka.version>
         <starterFeign.version>1.4.7.RELEASE</starterFeign.version>
